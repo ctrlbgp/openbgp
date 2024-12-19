@@ -3,7 +3,7 @@ sphinx_rtd_theme
 pbr==2.0.0
 oslo.config==2.1.0
 Twisted==20.3.0
-Flask==1.0
+Flask==2.3.2
 Flask-HTTPAuth==2.5.0
 netaddr>=0.7.12
 future>=0.16.0
