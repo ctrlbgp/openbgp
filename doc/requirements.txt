@@ -2,7 +2,7 @@ sphinx
 sphinx_rtd_theme
 pbr==2.0.0
 oslo.config==2.1.0
-Twisted==20.3.0
+Twisted==22.10.0
 Flask==1.0
 Flask-HTTPAuth==2.5.0
 netaddr>=0.7.12
